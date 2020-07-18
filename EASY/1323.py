@@ -94,3 +94,18 @@ class Solution:
         return num
 s=Solution()
 print(s.maximum69Number(9669))
+
+# or
+class Solution:
+    def maximum69Number(self, num: int) -> int:
+        string = str(num)
+        for i in range(len(string)):
+            if string[i] == '6':
+                new_string = string.replace('6', '9', 1)
+                return new_string
+
+        return string
+
+
+# or
+return int(str(num).replace('6', '9', 1))
