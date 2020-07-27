@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c673729-c43d-41bb-9718-5784031c89d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EASY/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EASY/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EASY/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EASY/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EASY/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EASY/27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EASY/1323.py" beforeDir="false" afterPath="$PROJECT_DIR$/EASY/1323.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +37,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../microblog" />
   </component>
-  <component name="RunManager" selected="Python.1436">
-    <configuration name="1290" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.21">
+    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LEETCODE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,28 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/1290.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1313" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LEETCODE" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EASY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/1313.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,27 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1389" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LEETCODE" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EASY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/1389.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1436" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LEETCODE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,13 +103,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LEETCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EASY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LEETCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EASY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EASY/21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.21" />
+        <item itemvalue="Python.20" />
+        <item itemvalue="Python.13" />
         <item itemvalue="Python.1436" />
         <item itemvalue="Python.1323" />
-        <item itemvalue="Python.1290" />
-        <item itemvalue="Python.1389" />
-        <item itemvalue="Python.1313" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595002097866</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final">
+      <created>1595079631168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595079631168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,26 +202,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="4" key="CommitChangelistDialog2" timestamp="1595002095967">
+    <state x="424" y="4" key="CommitChangelistDialog2" timestamp="1595079628542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595002095967" />
-    <state width="1515" height="192" key="GridCell.Tab.0.bottom" timestamp="1595004461394">
+    <state x="424" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595079628542" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595222330764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595004461394" />
-    <state width="1515" height="192" key="GridCell.Tab.0.center" timestamp="1595004461389">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595222330764" />
+    <state width="1515" height="192" key="GridCell.Tab.0.bottom" timestamp="1595862680620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595004461389" />
-    <state width="1515" height="192" key="GridCell.Tab.0.left" timestamp="1595004461389">
+    <state width="1515" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595862680620" />
+    <state width="1515" height="192" key="GridCell.Tab.0.center" timestamp="1595862680620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595004461389" />
-    <state width="1515" height="192" key="GridCell.Tab.0.right" timestamp="1595004461389">
+    <state width="1515" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595862680620" />
+    <state width="1515" height="192" key="GridCell.Tab.0.left" timestamp="1595862680620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595004461389" />
+    <state width="1515" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595862680620" />
+    <state width="1515" height="192" key="GridCell.Tab.0.right" timestamp="1595862680620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595862680620" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1595434934364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595434934364" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1595434934364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595434934364" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1595434934364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595434934364" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1595434934364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595434934364" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595002106821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
